@@ -4,7 +4,8 @@ To design, simulate and analyse a step down chopper using MATLAB Simulink.
 ## APPARATUS REQUIRED
 	MATLAB
 ## PROCEDURE
-1.	Open MATLAB and click on the icon for SIMULINK as shown below
+1.	Open MATLAB and click on the icon for SIMULINK as shown belowl
+2.	
  <img width="522" height="376" alt="image" src="https://github.com/user-attachments/assets/545a1702-442f-4f55-94db-225ccabc88ff" />
 
 Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Library  browser. 
